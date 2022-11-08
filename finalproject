@@ -1,3 +1,22 @@
 #I plan to collaborate with Thakib Arowonowon 
 #Thinking of modding a game or using one of the given ideas from Canvas, maybe the Notes app for iOS idea from CS50x. 
 #No questions come to mind so far. 
+
+#A notetaking app that you can collaborate with other people to take notes together. 
+
+#Our software will allow for comments, highlighting, and collaborative simultaneous notetaking. 
+It will be able to run on iOS and the user will run shared notes between users. 
+
+It will not combine 1051's final project with another final project. Our project will have aspects such 
+as loops, lists, and if statements. 
+
+I will be working with Thakib Arowonowon, tup46790@temple.edu, and his TA's name is Zhengkang Fan
+
+A good outcome will be that our app will be able to be run on iOS. 
+
+A better outcome will be that our notetaking app will take notes simply
+
+And a best outcome will be that our notetaking app will run on iOS and take notes as well as collaborative notetaking. 
+
+We will need to figure out how to run an app on iOS and what that will look like. What files to import as well
+as modules. Thakib and I are roommates so we be able to discuss what needs to get done each time we code. 
