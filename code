@@ -241,7 +241,7 @@ def check_collisions(snake):
 def game_over():
 
  
-
+#creates the game over font and sign when losing in the snake game
     canvas.delete(ALL)
 
     canvas.create_text(canvas.winfo_width()/2, canvas.winfo_height()/2,
